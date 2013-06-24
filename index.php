@@ -1,3 +1,3 @@
 <?php
  echo "hello";
-  echo "nuevo"
+  echo "nuevo remoto"
