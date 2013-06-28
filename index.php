@@ -1,5 +1,3 @@
 <?php
 
-  #!/bin/bash
-
-echo "wawaw";
+  echo "wawaw";
